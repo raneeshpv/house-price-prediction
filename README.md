@@ -1,8 +1,8 @@
-# 🏠 House Price Prediction
+#  House Price Prediction
 
 A machine learning project that predicts house prices using the **XGBoost Regression** algorithm.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project uses the Boston House Price dataset to build a regression model for predicting house prices based on property and neighborhood features.
 
@@ -17,7 +17,7 @@ The project includes:
 * Model evaluation
 * Actual vs. predicted price visualization
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * NumPy
@@ -28,7 +28,7 @@ The project includes:
 * Seaborn
 * Jupyter Notebook / Google Colab
 
-## ⚙️ Machine Learning Workflow
+##  Machine Learning Workflow
 
 ```text
 Dataset
@@ -48,7 +48,7 @@ Prediction
 Model Evaluation
 ```
 
-## 🤖 Model
+##  Model
 
 The project uses **XGBRegressor** from XGBoost for house price prediction.
 
@@ -62,7 +62,7 @@ The model is evaluated using:
 * **R² Score**
 * **Mean Absolute Error (MAE)**
 
-## 📊 Visualization
+##  Visualization
 
 The project includes a visualization comparing:
 
@@ -70,7 +70,7 @@ The project includes a visualization comparing:
 
 This helps evaluate how closely the model's predictions follow the actual house prices.
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -92,7 +92,7 @@ python house_price_prediction.py
 
 You can also open the `.ipynb` notebook using **Jupyter Notebook** or **Google Colab**.
 
-## 📁 Project Files
+##  Project Files
 
 ```text
 house-price-prediction/
@@ -102,7 +102,7 @@ house-price-prediction/
 └── README.md
 ```
 
-## 👨‍💻 Author
+##  Author
 
 **Abdul Raneesh P V**
 
